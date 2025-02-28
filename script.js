@@ -1,4 +1,3 @@
-// script.js
 const video = document.getElementById("camera");
 const canvas = document.getElementById("overlay");
 const distanceDisplay = document.getElementById("distance");
